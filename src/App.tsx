@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router";
 import { AppSidebar } from "./components/app-sidebar";
 import Navbar from "./components/Navbar";
 
-import { SidebarProvider, SidebarTrigger } from "./components/ui/sidebar";
+import { SidebarProvider } from "./components/ui/sidebar";
 import Home from "./Pages/Home";
 import Tv from "./Pages/Tv";
 import Newspaper from "./Pages/Newspaper";
